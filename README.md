@@ -27,12 +27,28 @@ reducing planning and build time from 12 to 9 weeks, creating a scalable framewo
 methodologies through Kanban tools
 
 ## Projects
-### Title
-[Publication]
+📌 Project Title: **Excel VBA Automation – Sorting & Highlighting Plans**
 
-Description
+🔍 Overview
+This VBA project automates Excel data processing by:
+- Deleting plan rows based on org chart
+- Sorting plan data based on multiple criteria
+- Applying conditional formatting to highlight key dates and statuses
+- Creation of different tabs and sorting of data based on specific conditions
+- Clearing irrelevant data dynamically based on specific conditions
+- Working within defined column ranges
 
-![Title]
+This solution is useful for finance, operations, and project management teams who handle large dataset reporting in Excel.
+⚙️ Features
+✅ Dynamic Sorting & Highlighting – Sorts plans by status and response dates
+✅ Conditional Formatting – Colors rows based on deadlines and ownership
+✅ Creates and sorts data into tabs – based on criteria of ownership
+✅ Data Cleanup – Clears content dynamically when criteria detected
+✅ Fully Automated – Runs with a single macro execution
+
+📂 How to Use
+
+[https://github.com/nicolelub/ExcelVBAAutomationReporting]
 
 ### Title
 [Publication]
