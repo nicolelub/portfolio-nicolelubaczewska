@@ -27,7 +27,8 @@ reducing planning and build time from 12 to 9 weeks, creating a scalable framewo
 methodologies through Kanban tools
 
 ## Projects
-📌 Project 1 Title: **Excel VBA Automation – Sorting & Highlighting Plans**
+
+## Project 1: Excel VBA Automation – Sorting & Highlighting Plans**
 
 🔍 Overview: This VBA project automates Excel data processing by:
 
@@ -54,14 +55,27 @@ This solution is useful for finance, operations, and project management teams wh
 
 📂 [Learn more about this project](https://github.com/nicolelub/ExcelVBAAutomationReporting)
 
-### Title
-[Publication]
+### Project 2: Analysis of On-Campus Spending using Qualtrics survey and Python Regression Modelling 
 
-Description
+- **Topic**: Analysis of dining and food services on a college campus, specifically at Boston University.  
+- **Objective**: Understand food spending patterns among BU students, focusing on the impact of income, location, and meal preparation.  
+- **Methodology**:  
+  - Conducted a **Qualtrics survey** with 16 questions (multiple-choice, multiple-selection, and fill-in-the-blank).  
+  - Focused on income sources, food spending habits, and demographic factors.  
+  - **Regression analysis** used to determine spending patterns and correlations.  
+- **Key Findings**:  
+  - Most students prefer food locations within **15–30 minutes of travel**.  
+  - **Popular food spots**: Starbucks, CityCo, and Panda Express.  
+  - Bringing a **mealbox** to campus reduces spending on food.  
+  - **Strongest predictors of spending**: CityCo, Baystate Underground, Allowance, and Age.  
+- **Challenges**:  
+  - Limited sample size (136 responses after cleaning from 232).  
+  - High number of **missing values** and insufficient survey questions for in-depth statistical insights.  
+- **Business Implications**:  
+  - Insights help restaurant and store owners **optimize locations and menu offerings**.  
+  - Useful for policy-making and forecasting food service demand on campus.
 
-![Title]
-
-- [LinkedIn Newsletter on AI](https://www.linkedin.com/newsletters/7255037871688978432/)
+[Learn more about this project](https://github.com/nicolelub/pythonschool)
 
 ## Publications
 1. Lubaczewska, Nicole. "Will Automation Replace Project Managers?" (https://www.pwc.pl/en/articles/will-automation-replace-project-managers.html#:~:text=The%20technological%20and%20digital%20transformation,intelligence%2C%20reasoning%2C%20and%20adaptation)
