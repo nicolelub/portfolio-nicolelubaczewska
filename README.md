@@ -1,5 +1,3 @@
-# Aspiring Product Associate/Analyst
-
 #### Technical Skills: Python, SQL, Excel VBA
 
 ## Education				       		
@@ -28,7 +26,7 @@ methodologies through Kanban tools
 
 ## Projects
 
-## Project 1: Excel VBA Automation – Sorting & Highlighting Plans**
+## Project 1: Excel VBA Automation – Sorting & Highlighting Plans
 
 🔍 Overview: This VBA project automates Excel data processing by:
 
