@@ -1,7 +1,7 @@
 #### Technical Skills: Python, SQL, Excel VBA
 
 ## Education				       		
-M.S., Data Analytics	| McDaniel College (_Incoming, June 2027_)	
+M.S., Data Analytics	| TBD (_Incoming, June 2027_)	
 
 B.S., Management Information Systems | Boston University (_May 2024_)
 
