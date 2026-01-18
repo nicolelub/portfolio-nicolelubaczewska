@@ -73,7 +73,80 @@ This solution is useful for finance, operations, and project management teams wh
   - Insights help restaurant and store owners **optimize locations and menu offerings**.  
   - Useful for policy-making and forecasting food service demand on campus.
 
-[Learn more about this project](https://github.com/nicolelub/pythonschool)
+## Project 3: Entity Relationship Diagram (ERD) – Campus Healthcare System
+
+### 🔍 Overview
+
+This project focuses on **designing a relational database schema** for a campus healthcare system. The goal was to translate real-world healthcare operations into a **normalized, scalable ERD** that supports accurate data storage, querying, and integrity.
+
+---
+
+### 🎯 Objectives
+
+* Model real-world healthcare workflows using relational design
+* Identify **entities, attributes, and relationships**
+* Apply **normalization principles** to reduce redundancy
+* Clearly define **primary and foreign keys**
+
+---
+
+### 🧩 Entities Designed
+
+* **Patients**
+* **Physicians**
+* **Appointments**
+* **Departments**
+* **Insurance Providers**
+* **Medical Records**
+
+Each entity includes:
+
+* Clearly defined primary keys
+* Relevant attributes aligned with business logic
+* Referential integrity via foreign keys
+
+---
+
+### 🔗 Relationships & Constraints
+
+* One-to-many and many-to-many relationships modeled using **junction tables**
+* Enforced:
+
+  * Cardinality
+  * Optionality
+  * Referential integrity
+* Business rules embedded directly into the schema (e.g., appointment ownership, physician assignment)
+
+---
+
+### 🧠 Design Decisions
+
+* Normalized to **3rd Normal Form (3NF)**
+* Used associative entities to handle complex relationships
+* Avoided derived and duplicate attributes
+* Designed with **query efficiency and scalability** in mind
+
+---
+
+### 🛠️ Tools Used
+
+* Lucidchart (ERD design)
+* Relational database principles
+* SQL-ready schema design
+
+---
+
+### 📌 Key Takeaways
+
+* Translating ambiguous business requirements into structured data models
+* Understanding how database design impacts analytics, reporting, and system reliability
+* Laying the foundation for downstream SQL querying and analytics workflows
+
+---
+
+🔗 **Repository**:
+[View ERD diagrams and documentation](https://github.com/nicolelub/ERD-Campus-Healthcare-System)
+
 
 ## Publications
 1. Lubaczewska, Nicole. "Will Automation Replace Project Managers?" (https://www.pwc.pl/en/articles/will-automation-replace-project-managers.html#:~:text=The%20technological%20and%20digital%20transformation,intelligence%2C%20reasoning%2C%20and%20adaptation)
